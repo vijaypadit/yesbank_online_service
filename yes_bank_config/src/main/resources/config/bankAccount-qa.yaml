@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+bankaccount:
+  message: "Welcome to YesBank accounts related QA APIs "
+  contactDetails:
+    name: "Vijay kumar QA lead"
+    email: "vijaycool294@gmail.com"
+  onCallSupport:
+    - 7503304263
